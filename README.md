@@ -7,4 +7,4 @@
 
 **Product & Sales Trends:** Explored popular product categories, transaction values, and sales distribution by region.
 
-**Visualizations:**Used Python libraries (Matplotlib, Seaborn) to create insightful visualizations highlighting trends and patterns.
+**Visualizations:** Used Python libraries (Matplotlib, Seaborn) to create insightful visualizations highlighting trends and patterns.
