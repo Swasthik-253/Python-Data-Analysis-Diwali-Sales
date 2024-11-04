@@ -3,3 +3,5 @@
 
 **Data Cleaning & Preparation:** Handled missing values, duplicates, and standardized data for accurate analysis.
 
+**Customer Demographics:** Analyzed age and gender distribution to identify key customer segments.
+
