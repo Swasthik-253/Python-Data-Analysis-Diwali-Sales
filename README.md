@@ -5,3 +5,5 @@
 
 **Customer Demographics:** Analyzed age and gender distribution to identify key customer segments.
 
+**Product & Sales Trends:** Explored popular product categories, transaction values, and sales distribution by region.
+
